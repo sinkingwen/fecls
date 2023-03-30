@@ -1,0 +1,30 @@
+body{
+  background-color: #fff;
+}
+.container{
+  font-size: 2rem;
+  color:#5a5a5a;
+}
+.jumbotron{
+  background-color: rgb(231, 247, 246);
+}
+.lead{
+  font-family: monospace;
+}
+h2{
+  color:#007acc;
+  font-family: serif;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+ol li{
+  font-family:monospace;
+  padding-bottom: 10px;
+}
+
+mark{
+  color:#007acc;
+}
+.blank{
+  height: 100px;
+}
