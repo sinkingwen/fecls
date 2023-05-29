@@ -22,6 +22,11 @@ ol li{
   padding-bottom: 10px;
 }
 
+section li span{
+  color: rgb(209, 16, 16);
+  font-weight: 700;
+}
+
 mark{
   color:#007acc;
 }
